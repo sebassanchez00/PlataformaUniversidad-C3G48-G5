@@ -1,0 +1,12 @@
+-----------------------------------------Problema con credenciales de acceso-------------------------------------
+Para solucionar se ejecutaron estos comandos desde el gitbash:
+
+git remote set-url origin "https://github-username@github.com/sebassanchez00/PlataformaUniversidad-C3G48-G5.git"
+
+git push --set-upstream origin CrearPaginaNoticias_SSanchez
+
+Luego aparece cuadro de dialogo invitando a poner el token o loguearse con el browser. Se le dio en bowser y el
+sistema se logueo automático
+-----------------------------------------------------------------------------------------------------------------
+
+
