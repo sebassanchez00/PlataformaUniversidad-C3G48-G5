@@ -8,5 +8,8 @@ git push --set-upstream origin CrearPaginaNoticias_SSanchez
 Luego aparece cuadro de dialogo invitando a poner el token o loguearse con el browser. Se le dio en bowser y el
 sistema se logueo automático
 -----------------------------------------------------------------------------------------------------------------
+URL miró:
+https://miro.com/app/board/o9J_lyiBqhQ=/?fromRedirect=1
 
-
+URL documento especificaciones: 
+https://docs.google.com/document/d/1VES7MFLU8YZdarIXXSEMMRaaboS7_z3U22Wj2EvNYAU/edit#heading=h.3tbugp1
