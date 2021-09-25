@@ -2,6 +2,14 @@ h1{
     border-color:darkcyan ;
 }
 
-strong{
-    background-color: aqua;
+em{
+    background-color:wheat;
 } 
+
+.BtnCerrar{
+    background-color:crimson;
+}
+
+.Navegacion{
+    display: inline;
+}
