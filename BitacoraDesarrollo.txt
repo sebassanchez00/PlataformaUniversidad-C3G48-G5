@@ -7,9 +7,16 @@ git push --set-upstream origin CrearPaginaNoticias_SSanchez
 
 Luego aparece cuadro de dialogo invitando a poner el token o loguearse con el browser. Se le dio en bowser y el
 sistema se logueo automático
+
+Algunas veces no aparece el diálogo, entonces hay que ir a panel de control y borrar las credenciales almacenadas
+para que las vuelva a preguntar en: Control Panel\User Accounts\Credential Manager. Se borro la que dice
+git:https://github.com
 -----------------------------------------------------------------------------------------------------------------
 URL miró:
 https://miro.com/app/board/o9J_lyiBqhQ=/?fromRedirect=1
 
 URL documento especificaciones: 
 https://docs.google.com/document/d/1VES7MFLU8YZdarIXXSEMMRaaboS7_z3U22Wj2EvNYAU/edit#heading=h.3tbugp1
+
+Token:
+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
