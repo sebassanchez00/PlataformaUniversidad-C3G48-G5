@@ -20,3 +20,6 @@ https://docs.google.com/document/d/1VES7MFLU8YZdarIXXSEMMRaaboS7_z3U22Wj2EvNYAU/
 
 Token:
 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
+
+Veautify:
+https://vuetifyjs.com/en/components/dialogs/#without-activator
